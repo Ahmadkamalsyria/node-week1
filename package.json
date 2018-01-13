@@ -1,0 +1,11 @@
+{
+  "name": "node1-week1",
+  "version": "1.0.0",
+  "description": "code in class for week 1 nodejs module-class 3",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ahmadkamalsyria",
+  "license": "ISC"
+}
